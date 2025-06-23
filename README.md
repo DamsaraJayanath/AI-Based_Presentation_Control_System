@@ -76,3 +76,9 @@ The dataset for training gestures was created manually using MediaPipe landmarks
   <li>Improved voice intent recognition (e.g., "go back one slide")</li>
   <li>GUI interface for better usability</li>
 </ul>
+
+<h2>💡 Tip</h2>
+<p>
+You can use your own hand gesture dataset to personalize this system. Make sure to capture two clear hand gestures—one for <strong>"next"</strong> and one for <strong>"previous"</strong>. Once your data is ready, run the <code>Model.ipynb</code> notebook with your dataset to train and export a new model.
+</p>
+
