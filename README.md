@@ -35,7 +35,7 @@ This project is an intelligent presentation controller built using <strong>Pytho
 </ol>
 
 <h2>▶️ How to Run</h2>
-<pre><code>python presentation_control.py</code></pre>
+<pre><code>python Final.py</code></pre>
 <p>Then, input either <code>0</code> (hand gesture mode) or <code>1</code> (voice command mode) when prompted.</p>
 
 <h2>🛠 Requirements</h2>
@@ -51,12 +51,11 @@ This project is an intelligent presentation controller built using <strong>Pytho
     <li>joblib</li>
     <li>pyautogui</li>
     <li>speechrecognition</li>
-    <li>pyaudio (for mic input)</li>
   </ul>
 </ul>
 
 <h2>📦 Install Dependencies</h2>
-<pre><code>pip install opencv-python mediapipe numpy scikit-learn joblib pyautogui SpeechRecognition pyaudio</code></pre>
+<pre><code>pip install opencv-python mediapipe numpy scikit-learn joblib pyautogui SpeechRecognition </code></pre>
 
 <h2>📁 Dataset</h2>
 <p>
