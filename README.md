@@ -39,11 +39,11 @@ This project is a presentation controller built using Python, OpenCV, MediaPipe,
  - Python
   - OpenCV
   - MediaPipe
-Scikit-learn
-SpeechRecognition
-PyAutoGUI
-NumPy
-Joblib
+  - Scikit-learn
+  - SpeechRecognition
+  - PyAutoGUI
+  - NumPy
+  - Joblib
 
 <h2>📦 Install Dependencies</h2>
 <pre><code>pip install opencv-python mediapipe numpy scikit-learn joblib pyautogui SpeechRecognition </code></pre>
