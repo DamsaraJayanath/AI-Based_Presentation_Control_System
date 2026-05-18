@@ -4,12 +4,11 @@ This project is a presentation controller built using Python, OpenCV, MediaPipe,
 
 
 <h2> Key Features</h2>
-<ul>
-  <li><strong>Dual Control Modes:</strong> Use either hand gestures or voice commands to navigate slides.</li>
-  <li><strong>Hand Gesture Control:</strong> Trained a Random Forest classifier on custom hand gesture dataset using MediaPipe landmarks.</li>
-  <li><strong>Voice Command Control:</strong> Uses Google's Speech Recognition API to interpret "next" and "previous" slide commands.</li>
-  <li><strong>Real-time Feedback:</strong> Displays live webcam feed with hand detection, gesture prediction, and confidence levels.</li>
-</ul>
+- Control presentation slides using hand gestures
+- Control slides using voice commands such as “next” and “previous”
+- Real-time hand tracking and gesture recognition
+- Random Forest model trained on a custom hand gesture dataset
+- Live webcam feedback with gesture prediction and confidence score
 
 <h2>File Structure</h2>
 <ul>
