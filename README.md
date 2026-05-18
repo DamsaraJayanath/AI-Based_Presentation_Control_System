@@ -35,21 +35,15 @@ This project is a presentation controller built using Python, OpenCV, MediaPipe,
 <pre><code>python Final.py</code></pre>
 <p>Then, input either <code>0</code> (hand gesture mode) or <code>1</code> (voice command mode) when prompted.</p>
 
-<h2>🛠 Requirements</h2>
-<ul>
-  <li>Python 3.x</li>
-  <li>Webcam and/or microphone</li>
-  <li>Python libraries:</li>
-  <ul>
-    <li>opencv-python</li>
-    <li>mediapipe</li>
-    <li>numpy</li>
-    <li>scikit-learn</li>
-    <li>joblib</li>
-    <li>pyautogui</li>
-    <li>speechrecognition</li>
-  </ul>
-</ul>
+## Requirements
+ - Python
+  - OpenCV
+  - MediaPipe
+Scikit-learn
+SpeechRecognition
+PyAutoGUI
+NumPy
+Joblib
 
 <h2>📦 Install Dependencies</h2>
 <pre><code>pip install opencv-python mediapipe numpy scikit-learn joblib pyautogui SpeechRecognition </code></pre>
