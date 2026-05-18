@@ -4,7 +4,7 @@ This project is a presentation controller built using Python, OpenCV, MediaPipe,
 
 
 <h2> Key Features</h2>
-- Control presentation slides using hand gestures
+  - Control presentation slides using hand gestures
 - Control slides using voice commands such as “next” and “previous”
 - Real-time hand tracking and gesture recognition
 - Random Forest model trained on a custom hand gesture dataset
