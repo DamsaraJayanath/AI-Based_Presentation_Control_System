@@ -1,14 +1,13 @@
-## AI-Based Presentation Control System
+# AI-Based Presentation Control System
 
 This project is a presentation controller built using Python, OpenCV, MediaPipe, Scikit-learn, and SpeechRecognition. It allows users to control presentation slides using either hand gestures or voice commands, providing a touch-free presentation experience.
 
-
-<h2> Key Features</h2>
-  - Control presentation slides using hand gestures
-- Control slides using voice commands such as “next” and “previous”
-- Real-time hand tracking and gesture recognition
-- Random Forest model trained on a custom hand gesture dataset
-- Live webcam feedback with gesture prediction and confidence score
+## Key Features
+1. Control presentation slides using hand gestures
+2. Control slides using voice commands such as “next” and “previous”
+3. Real-time hand tracking and gesture recognition
+4. Random Forest model trained on a custom hand gesture dataset
+5. Live webcam feedback with gesture prediction and confidence score
 
 <h2>File Structure</h2>
 <ul>
@@ -60,12 +59,6 @@ This project is a presentation controller built using Python, OpenCV, MediaPipe,
 The dataset for training gestures was created manually using MediaPipe landmarks extracted from the webcam feed. The trained model is included as <code>gesture_model.pkl</code>.
 </p>
 
-<h2>📌 Applications</h2>
-<ul>
-  <li>Presentations in classrooms or meetings</li>
-  <li>Touch-free navigation during webinars or live demos</li>
-  <li>Assistive technology for hands-free interaction</li>
-</ul>
 
 <h2>💡 Future Enhancements</h2>
 <ul>
