@@ -45,7 +45,7 @@ This project is a presentation controller built using Python, OpenCV, MediaPipe,
   - NumPy
   - Joblib
 
-<h2>📦 Install Dependencies</h2>
+## Install Dependencies
 <pre><code>pip install opencv-python mediapipe numpy scikit-learn joblib pyautogui SpeechRecognition </code></pre>
 
 <h2>Dataset</h2>
@@ -54,14 +54,14 @@ The dataset for training gestures was created manually using MediaPipe landmarks
 </p>
 
 
-<h2>💡 Future Enhancements</h2>
+<h2> Future Enhancements</h2>
 <ul>
   <li>Support for more gestures (e.g., start/pause slideshow)</li>
   <li>Improved voice intent recognition (e.g., "go back one slide")</li>
   <li>GUI interface for better usability</li>
 </ul>
 
-<h2>💡 Tip</h2>
+## Tip
 <p>
 You can use your own hand gesture dataset to personalize this system. Make sure to capture two clear hand gestures—one for <strong>"next"</strong> and one for <strong>"previous"</strong>. Once your data is ready, run the <code>Model.ipynb</code> notebook with your dataset to train and export a new model.
 </p>
